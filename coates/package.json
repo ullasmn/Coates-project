@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "clean": "rm -rf node_modules",
+    "test": "node test/temperatureDisplayTest.js"
+  },
+  "dependencies": {
+    "csvtojson": "^2.0.10"
+  }
+}
